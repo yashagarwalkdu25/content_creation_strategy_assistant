@@ -1,0 +1,18 @@
+# Python package requirements for data_ingestion_service.py
+
+trendspy
+requests
+beautifulsoup4
+sentence-transformers 
+# langchain-huggingface imports SentenceTransformerEmbeddings which relies on sentence-transformers
+
+pinecone-client>=3.0.0 # Specify a version that supports the new Pinecone client API
+langchain
+uuid # This is a standard library, usually no need to list, but good for explicitness if any doubt.
+langchain-openai
+langchain-huggingface
+langchain-pinecone # For Pinecone vector store integration with Langchain
+langsmith
+python-dotenv
+# Optional, but good practice for managing environment variables if not using python-dotenv
+# python-dotenv 
