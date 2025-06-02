@@ -69,23 +69,19 @@ npm install
 npm run dev
 ```
 
-The frontend will start on [http://localhost:5173](http://localhost:5173) (or as configured).
+## Screenshots
+---
+### 1. UI for trending topics 
+<img width="1512" alt="Screenshot 2025-06-02 at 5 50 43 PM" src="https://github.com/user-attachments/assets/e7448789-6ad5-4e12-9d97-eacce666454e" />
+
+### 2. Chat bot (build a smart profile)
+
+<img width="1454" alt="Screenshot 2025-06-02 at 5 59 05 PM" src="https://github.com/user-attachments/assets/1c2c06e8-7470-4513-9b15-53e2570418f6" />
+
+### 3. Chat bot (content generation and feebback)
+
+<img width="1429" alt="Screenshot 2025-06-02 at 6 01 23 PM" src="https://github.com/user-attachments/assets/062c9d9e-de65-439f-ab1c-0e1de464a3ec" />
+
+<img width="1447" alt="Screenshot 2025-06-02 at 6 01 33 PM" src="https://github.com/user-attachments/assets/d01c43db-182d-40c2-8333-1f995daa9874" />
 
 ---
-
-## Usage
-- Visit the frontend URL in your browser.
-- Use the AI assistant to build your content profile and get trending ideas.
-- Explore trending topics and related news in the dashboard.
-
----
-
-## Notes
-- Make sure all backend services are running before starting the frontend.
-- For production, configure CORS and environment variables securely.
-- For troubleshooting, check logs in the terminal for each service.
-
----
-
-## License
-MIT (or your chosen license) 
